@@ -1,0 +1,116 @@
+[
+  {
+    "file": "background.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/background.mp3",
+    "bytes": 1773653,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "start.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/start.mp3",
+    "bytes": 107668,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "fail.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/fail.mp3",
+    "bytes": 32853,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "win.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/win.mp3",
+    "bytes": 166182,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "caocao1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/caocao1.mp3",
+    "bytes": 39541,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "caocao2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/caocao2.mp3",
+    "bytes": 21986,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "caocao3.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/caocao3.mp3",
+    "bytes": 56468,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zhangfei1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zhangfei1.mp3",
+    "bytes": 10701,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zhangfei2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zhangfei2.mp3",
+    "bytes": 20315,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zhaoyun1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zhaoyun1.mp3",
+    "bytes": 21621,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zhaoyun2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zhaoyun2.mp3",
+    "bytes": 22404,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "machao1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/machao1.mp3",
+    "bytes": 19061,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "machao2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/machao2.mp3",
+    "bytes": 19897,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "guanyu1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/guanyu1.mp3",
+    "bytes": 20524,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "guanyu2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/guanyu2.mp3",
+    "bytes": 23449,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "huangzhong1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/huangzhong1.mp3",
+    "bytes": 3596,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "huangzhong2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/huangzhong2.mp3",
+    "bytes": 10075,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zu1.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zu1.mp3",
+    "bytes": 8821,
+    "contentType": "audio/mpeg"
+  },
+  {
+    "file": "zu2.mp3",
+    "source": "https://labuladong.online/game/audios/huarong-road/zu2.mp3",
+    "bytes": 8821,
+    "contentType": "audio/mpeg"
+  }
+]

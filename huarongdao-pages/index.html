@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>数字华容道</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<main class="game">
+  <h1>剩余时间: <span id="timer">10:00</span></h1>
+  <div class="board-frame">
+    <div id="board" role="group" aria-label="华容道棋盘，选择棋子后用方向键移动"></div>
+    <img class="exit" src="assets/exit.png" alt="底部出口">
+  </div>
+  <div class="controls">
+    <button id="restart">重新开始</button>
+    <button id="music" title="同时控制背景音乐和人物音效">开启音乐 <img src="assets/music.png" alt=""></button>
+    <button id="ids" aria-pressed="false">显示角色ID</button>
+  </div>
+  <p id="status" role="status">拖动棋子，或选中后按方向键，将曹操移到底部出口。</p>
+  <p class="credits">人物素材截取自提供的图片，背景音乐取自《三国杀》手游。素材权利归原作者所有。</p>
+</main>
+<audio id="bgm" src="assets/audio/background.mp3" loop preload="metadata"></audio>
+<audio id="voice" preload="none"></audio>
+<audio id="effect" preload="none"></audio>
+<script src="game.js"></script>
+</body></html>
